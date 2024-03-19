@@ -1,8 +1,8 @@
 # batch config
 
-label:          'Rijksmuseum Demo'
-description:    'Demo collection for aperitiiif service'
-attribution:    'Provided by Rijksmuseum via Wikimedia Commons'
+label:          'Comic: La Agonía de Rasu Ñiti / Wañunayaq Rasu Ñit'imanta'
+description:    'Practice collection for aperitiiif service'
+attribution:    
 
 presentation_api_url: 'https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com'
 image_api_url:        'https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2'
