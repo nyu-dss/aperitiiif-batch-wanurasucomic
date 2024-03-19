@@ -1,7 +1,7 @@
 # batch config
 
-label:          'La Agonía de Rasu Ñiti / Wañunayaq Rasu Ñit'imanta'
-description:    'Practice collection for aperitiiif service'
+label:          'Rijksmuseum Demo'
+description:    'Demo collection for aperitiiif service'
 attribution:    'Provided by Rijksmuseum via Wikimedia Commons'
 
 presentation_api_url: 'https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com'
