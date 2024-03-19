@@ -1,9 +1,9 @@
 [
   {
-    "id": "001",
-    "label": "001",
-    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/wanurasucomic/001/manifest.json",
-    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/wanurasucomic_001_01/square/250,/0/default.jpg",
-    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fwanurasucomic%2F001%2Fmanifest.json&theme=dark"
+    "id": "WR01",
+    "label": "La Agonía de Rasu Ñiti / Wañunayaq Rasu Ñit'imanta",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/wanurasucomic/WR01/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/wanurasucomic_WR01_01/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fwanurasucomic%2FWR01%2Fmanifest.json&theme=dark"
   }
 ]
